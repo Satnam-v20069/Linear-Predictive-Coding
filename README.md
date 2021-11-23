@@ -1,1 +1,2 @@
 # Linear-Predictive-Coding
+Two files should.wav and call recording.wav were compressed using Linear Predictive Coding (LPC) and computed the residual signal for particular frame in speech by using inverse filtering. Then the synthetic speech frame is calculated using the LPC residual and the synthetic speech frames are added to obtain back the speech signal. Discrete Fourier Transform(DFT) and Linear Predictive Coding (LPC) spectrum are plotted to analyze the performance of the implemented algorithm.
